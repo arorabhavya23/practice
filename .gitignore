@@ -1,1 +1,4 @@
-/.idea/
+.idea/
+out/
+practice.iml
+src/.gradle/
