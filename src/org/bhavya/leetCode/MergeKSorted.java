@@ -1,4 +1,4 @@
 package org.bhavya.leetCode;
 
-public class IntegerToRoman {
+public class MergeKSorted {
 }

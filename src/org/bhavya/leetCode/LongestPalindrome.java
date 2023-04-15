@@ -16,6 +16,8 @@ package org.bhavya.leetCode;
        * Output: "bb"
  * 
  */
-public class LongestPalindrom {
+public class LongestPalindrome {
+
+  //todo: write a code for plaindrom
 
 }
